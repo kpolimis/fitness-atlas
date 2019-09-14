@@ -1,0 +1,1 @@
+The `Takeout` folder is created by unzipping the takeout export of fitness data
